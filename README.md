@@ -8,8 +8,13 @@
 https://github.com/breakwa11/shadowsocks-libev
 
 本方案主要参考以下内容，对原作者表示感谢！
+
 https://github.com/darkwarlock/shadowsocks-rss
+
 http://www.blog.wanghualang.com/xiaomi-shadowsocks.html
+
 https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/ebook/03.5.html
+
 http://www.deepgully.com/develop
+
 https://www.itjesse.com/cross-compile-shadowsocks-libev-for-miroute-r2d/
